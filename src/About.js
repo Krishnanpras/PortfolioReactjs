@@ -23,7 +23,7 @@ function About() {
           <br />
           <label htmlFor="">LinkedIn : </label><a className="link" href="https://www.linkedin.com/in/krishnanpp/">krishnanpp/</a>
           <br />
-          <a href="#" className="btn">Download my Resume</a>
+          <a href="https://drive.google.com/file/d/1bijfjUnSJELMYPFpGA5jabZMXSaKRcpv/view?usp=sharing" className="btn">Download my Resume</a>
         </div>
       </div>
     </section>
