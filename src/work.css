@@ -1,6 +1,6 @@
 .box{
-    width: 394px;
-    height: 350px
+    width: 384px;
+    height: 360px
     ;
     
    
@@ -14,8 +14,8 @@
 img{
   
  
-    width: 390px;
-    height:200px;
+    width: 380px;
+    height:210px;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
 }
@@ -59,7 +59,8 @@ button:hover{
 
 @media only screen and (max-width: 1285px) {
 .whole{
-  height: 1300px;
+  height: 2200px;
 }
  
 }
+
